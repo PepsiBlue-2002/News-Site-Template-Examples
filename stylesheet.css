@@ -1,5 +1,8 @@
 body {
     font-family: "Open Sans", sans-serif; 
+    background-image: url(BackgroundImage2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
     
 }
 
@@ -69,3 +72,9 @@ ul :hover {
   background-color: gainsboro
 }
     
+/* Social Links */
+.social {
+  width: 30%;
+  height: auto;
+  border-radius: 15px;
+}
